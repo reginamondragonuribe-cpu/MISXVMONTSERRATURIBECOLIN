@@ -114,7 +114,7 @@ const familias = [
     { id_familia:25, nombre_familia:"Familia Monroy Lara", boletos:2 },
     { id_familia:26, nombre_familia:"Familia Ponce de León Monroy", boletos:4 },
     { id_familia:27, nombre_familia:"Familia Ponce de León Monroy", boletos:4 },
-    { id_familia:28, nombre_familia:"Familia Monroy Lara", boletos:6 },
+    { id_familia:28, nombre_familia:"Juan Monroy Lara", boletos:1 },
     { id_familia:29, nombre_familia:"Familia Martínez Ortiz", boletos:3 },
     { id_familia:30, nombre_familia:"Familia Gallegos Gutiérrez", boletos:4 },
     { id_familia:31, nombre_familia:"Familia Tapia Gallegos", boletos:4 },
@@ -152,6 +152,8 @@ const familias = [
     { id_familia:63, nombre_familia:"Familia Hernandez Brigido", boletos:3 },
     { id_familia:64, nombre_familia:"Pablo ", boletos:2 },
     { id_familia:65, nombre_familia:"Sr. Horacio y Patricia", boletos:2 },
+    { id_familia:66, nombre_familia:"Familia Monroy Hernández", boletos:4 },
+    { id_familia:67, nombre_familia:"Familia Monroy Hernández", boletos:5 },
 ];
  
 // LEER PARAMETRO DEL LINK
