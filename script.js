@@ -143,7 +143,7 @@ const familias = [
     { id_familia:54, nombre_familia:"Emmanuel Ponce", boletos:1 },
     { id_familia:55, nombre_familia:"Julieta", boletos:1 },
     { id_familia:56, nombre_familia:"Mia", boletos:1 },
-    { id_familia:57, nombre_familia:"Nicolas", boletos:1 },
+    { id_familia:57, nombre_familia:"Nicolas Alvis", boletos:1 },
     { id_familia:58, nombre_familia:"Daniel", boletos:1 },
     { id_familia:59, nombre_familia:"Familia Martinez Gutierrez", boletos:2 },
     { id_familia:60, nombre_familia:"Padre Luis Alberto", boletos:1 },
