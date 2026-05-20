@@ -120,7 +120,7 @@ const familias = [
     { id_familia:31, nombre_familia:"Familia Tapia Gallegos", boletos:4 },
     { id_familia:32, nombre_familia:"Familia Gutiérrez Campos", boletos:4 },
     { id_familia:33, nombre_familia:"Familia Gutiérrez Rodríguez", boletos:3 },
-    { id_familia:34, nombre_familia:"Familia Ortiz Rodríguez", boletos:3 },
+    { id_familia:34, nombre_familia:"Familia Ortiz Lopez", boletos:4 },
     { id_familia:35, nombre_familia:"Familia Ortiz Rodríguez", boletos:3 },
     { id_familia:36, nombre_familia:"Familia Ortiz Rodríguez", boletos:4 },
     { id_familia:37, nombre_familia:"Familia Peñaloza", boletos:2 },
