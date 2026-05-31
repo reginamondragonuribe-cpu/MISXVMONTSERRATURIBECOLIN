@@ -136,7 +136,7 @@ const familias = [
     { id_familia:47, nombre_familia:"Camila González Hernández", boletos:1 },
     { id_familia:48, nombre_familia:"Santiago Ramos Sotelo", boletos:1 },
     { id_familia:49, nombre_familia:"Alejandro Valencia Barba", boletos:1 },
-    { id_familia:50, nombre_familia:"Azul Morales Esquivel", boletos:1 },
+    { id_familia:50, nombre_familia:"Santiago Vaquero", boletos:1 },
     { id_familia:51, nombre_familia:"Ashley Enciso Corona", boletos:1 },
     { id_familia:52, nombre_familia:"Abigail Rangel Garcia", boletos:1 },
     { id_familia:53, nombre_familia:"Vanessa", boletos:1 },
@@ -156,6 +156,7 @@ const familias = [
     { id_familia:67, nombre_familia:"Familia Monroy Hernández", boletos:5 },
     { id_familia:68, nombre_familia:"Jaime Oliva Mondragón", boletos:1 },
     { id_familia:69, nombre_familia:"Gabriela Oliva Mondragón", boletos:1 },
+    { id_familia:70, nombre_familia:"Valeria", boletos:1 },
 ];
  
 // LEER PARAMETRO DEL LINK
