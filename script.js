@@ -157,6 +157,7 @@ const familias = [
     { id_familia:68, nombre_familia:"Jaime Oliva Mondragón", boletos:1 },
     { id_familia:69, nombre_familia:"Gabriela Oliva Mondragón", boletos:1 },
     { id_familia:70, nombre_familia:"Valeria", boletos:1 },
+    { id_familia:71, nombre_familia:"Familia Hernandez Amezcua", boletos:4 },
 ];
  
 // LEER PARAMETRO DEL LINK
